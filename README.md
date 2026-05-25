@@ -1,34 +1,77 @@
-<h1 align="center">Hi 👋, I'm Zeeshan Yaqoob</h1>
-<h3 align="center">I am a driven and motivated student of Electrical Engineering with a specialization in Electronics.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hey, I'm Zeeshan Yaqoob 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshanx186&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshanx186" /> </p>
+<h3 align="center">AI Engineer · Building systems that think, retrieve, and automate</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanx186" alt="zeeshanx186" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on **UART In Verilog**
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🌱 I’m currently learning **Control SYstem, Verilog, RiscV and UVM**
+### What I'm working on
 
-- 👨‍💻 All of my projects are available at [https://github.com/Zeeshanx186](https://github.com/Zeeshanx186)
+- 🧠 **AI Integrator @ Intech** — sole person driving AI adoption; taking technical documentation workflows from fully manual to automated using LLMs and retrieval systems
+- 🔍 **Hybrid RAG System** — built a production-grade document Q&A pipeline combining FAISS semantic search + BM25 keyword retrieval, cross-encoder reranking, parent document retrieval, and hallucination detection
+- ⚡ Exploring automation pipelines, AI agents, and practical LLM applications for real workflows
 
-- 💬 Ask me about **Machine Learning, AI and Electrical Engineering(Electronics)**
+<br/>
 
-- 📫 How to reach me **zeeshanyaqoob999@gmail.com**
+### What I build
 
-- 📄 Know about my experiences [www.linkedin.com/in/zeeshanyaqoob](www.linkedin.com/in/zeeshanyaqoob)
+```
+LLM Pipelines        → RAG systems, query rewriting, hallucination detection
+AI Agents            → Tool-use, multi-step reasoning, document intelligence  
+Automation           → Turning manual workflows into automated, reliable systems
+Custom Apps          → Streamlit, Python scripts, lightweight internal tooling
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zeeshanyaqoob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeeshanyaqoob" height="30" width="40" /></a>
-<a href="https://kaggle.com/zeeshan yaqoob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeeshan yaqoob" height="30" width="40" /></a>
+<br/>
+
+### Tech I work with
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-0a0a0e?style=flat&logo=python&logoColor=f59e0b)
+![LangChain](https://img.shields.io/badge/LangChain-0a0a0e?style=flat&logo=chainlink&logoColor=f59e0b)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-0a0a0e?style=flat&logo=openai&logoColor=f59e0b)
+![Anthropic](https://img.shields.io/badge/Anthropic_API-0a0a0e?style=flat&logo=anthropic&logoColor=f59e0b)
+![FAISS](https://img.shields.io/badge/FAISS-0a0a0e?style=flat&logo=meta&logoColor=f59e0b)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0e?style=flat&logo=huggingface&logoColor=f59e0b)
+![Streamlit](https://img.shields.io/badge/Streamlit-0a0a0e?style=flat&logo=streamlit&logoColor=f59e0b)
+
+**Engineering Background**
+
+![C++](https://img.shields.io/badge/C++-0a0a0e?style=flat&logo=cplusplus&logoColor=6b7280)
+![Docker](https://img.shields.io/badge/Docker-0a0a0e?style=flat&logo=docker&logoColor=6b7280)
+![Linux](https://img.shields.io/badge/Linux-0a0a0e?style=flat&logo=linux&logoColor=6b7280)
+![Git](https://img.shields.io/badge/Git-0a0a0e?style=flat&logo=git&logoColor=6b7280)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0e?style=flat&logo=tensorflow&logoColor=6b7280)
+![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0e?style=flat&logo=opencv&logoColor=6b7280)
+![Arduino](https://img.shields.io/badge/Arduino-0a0a0e?style=flat&logo=arduino&logoColor=6b7280)
+
+<br/>
+
+### Featured Project — Hybrid RAG System
+
+> A production-grade document intelligence system. Not a tutorial project.
+
+| Component | What it does |
+|---|---|
+| **Hybrid Retrieval** | FAISS (MMR) + BM25 ensemble — semantic *and* keyword search combined |
+| **Parent Doc Retrieval** | Retrieves small chunks for precision, feeds large parent context to LLM |
+| **Cross-Encoder Reranking** | ms-marco-MiniLM re-scores results after retrieval for higher relevance |
+| **Query Pipeline** | Rewrites + expands query before retrieval even runs |
+| **Hallucination Detection** | Every response is fact-checked against source documents |
+| **Full UI** | Streaming responses, chat history, context window viewer, source cards |
+
+[**→ View the repo**](https://github.com/Zeeshanx186)
+
+<br/>
+
+### Let's connect
+
+<p>
+<a href="https://linkedin.com/in/zeeshanyaqoob"><img src="https://img.shields.io/badge/LinkedIn-0a0a0e?style=flat&logo=linkedin&logoColor=f59e0b"/></a>
+<a href="mailto:zeeshanyaqoob999@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0e?style=flat&logo=gmail&logoColor=f59e0b"/></a>
+<a href="https://github.com/Zeeshanx186"><img src="https://img.shields.io/badge/GitHub-0a0a0e?style=flat&logo=github&logoColor=f59e0b"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanx186&show_icons=true&locale=en&layout=compact" alt="zeeshanx186" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeshanx186&show_icons=true&locale=en" alt="zeeshanx186" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanx186&" alt="zeeshanx186" /></p>
+</p>
