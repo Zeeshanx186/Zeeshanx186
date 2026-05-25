@@ -62,7 +62,7 @@ Custom Apps          → Streamlit, Python scripts, lightweight internal tooling
 | **Hallucination Detection** | Every response is fact-checked against source documents |
 | **Full UI** | Streaming responses, chat history, context window viewer, source cards |
 
-[**→ View the repo**](https://github.com/Zeeshanx186)
+[**→ View the repo**](https://github.com/Zeeshanx186/docchat-ai)
 
 <br/>
 
